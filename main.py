@@ -1,7 +1,7 @@
+SCRAPE_LIMIT = 20
 print("[!] IF YOU FIND ANY ERRORS PLEASE REPORT TO SILLYMEOWERCAT ON REDDIT OR GITHUB")
 
 PREFIX = "UTTP"
-SCRAPE_LIMIT = 20
 url = f"https://www.youtube.com/results?search_query={PREFIX}&sp=EgIQAg%3D%3D"
 
 # Importing external libraries
