@@ -32,6 +32,7 @@ Run this command `git clone https://github.com/SillyMeowerCat/AUTTP-Data.git`
 
 **If you have any issues or want to add to the data open an issue / pull request on Github**
 **If you need any help feel free to contact me on reddit or here**
+**This is intended for ethical use to combat trolls, obide by Youtube TOS and Laws. I am not responsible for any damage caused by this**
 ---
 ***UTTP Downfall!***
 
